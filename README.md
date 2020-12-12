@@ -6,3 +6,4 @@ i napiszmy cos jeszcze raz
 
 
 i jeszcze cos
+**opis po klonowaniu**
